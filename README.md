@@ -41,3 +41,6 @@ Here are a few snapshots:
 **Search By Genre**: List of all genres is displayed for the user to select.  
 ![](images/search-genre-1.png)  
 ![](images/search-genre-2.png)  
+
+<br/>
+**Refer the 'Project Report' for an in-depth understanding of this system.**
