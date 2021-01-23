@@ -1,5 +1,5 @@
 # Library-Management-System
-#### A system to handle the primary housekeeping functions of a library. Built using Python and MongoDB.
+#### Using Python and MongoDB to built a system to handle the primary housekeeping functions of a library.
 <br/>
 
 The following functionalities have been implemented:
